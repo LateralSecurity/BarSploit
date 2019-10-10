@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BarSploit</string>
+    <string name="title_activity_add_data">Compose Barcode</string>
+    <string name="title_activity_barcode_sequence">Barcode Group</string>
+    <string name="groups_empty">Start by creating a barcode group</string>
+    <string name="group_empty">Add a barcode or delay</string>
+    <string name="accept">Accept</string>
+    <string name="clear_selection">Clear Selection</string>
+    <string name="select_all">Select All</string>
+    <string name="delete">Delete</string>
+    <string name="export">Export</string>
+    <string name="print">Print</string>
+    <string name="string">String</string>
+    <string name="bytes">Bytes</string>
+</resources>
